@@ -1,0 +1,60 @@
+body {
+    background-image: url(P/b.jpg);
+    font-family: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;  
+}
+.go{
+    background-image: url(P/a.jpg);
+    font-family: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;  
+    
+}
+.head{
+    color: aliceblue;
+}
+.image{
+  margin-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+   font-size: 40px;
+    font-family: fantasy;   
+    color: azure;
+}
+.image img{
+     border-radius: 70%;
+  height: 130px;
+    width: 130px;
+  margin: -66px 0 30px 15;
+  vertical-align: top;
+     border: 5px gray solid;
+}
+
+.li{
+  text-align: center;
+}
+
+.pm{
+  
+  font-weight: 400;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+     background-image: url(P/g.png);
+    border: 5px grey solid;
+}
+.fb{
+     text-align: center;
+}
+.pa{
+    text-align: center;
+}
+.ab{
+    text-align: center;
+    color: aliceblue;
+}
+.cip{
+    text-align: center;
+    
+}
+.cp
+{
+     text-align: center;
+    color: aliceblue;
+}
